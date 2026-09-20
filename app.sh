@@ -1,1 +1,1 @@
-echo "Hello from Yusuf - Jenkins Pipeline"
+echo "Hello Yusuf from Platform Zero"
